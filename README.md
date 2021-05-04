@@ -73,8 +73,8 @@ ___
 <!-- Tables -->
 | Name     | Email          |
 | -------- | -------------- |
-| Artem Kabilov | artjom.kabilvo@gmail.com |
-| Artem Kabilov  | artjom.kabilvo@gmail.com |
+| Maksim Lagunovski | mlagunovski@mail.ru |
+| Maksim Lagunovski | mlagunovski@mail.ru |
 
 <!-- Task List -->
 * [x] Task 1
